@@ -1,0 +1,47 @@
+body {
+    background-color: hsl(270, 1%, 41%);
+}
+
+.red {
+    background-color: hsl(0, 100%, 70%);
+}
+
+.red-orange {
+    background-color: hsl(7, 100%, 70%);
+}
+
+.orange {
+    background-color: hsl(20, 100%, 70%);
+}
+
+.yellow-orange {
+    background-color: hsl(40, 100%, 70%);
+}
+
+.yellow {
+    background-color: hsl(60, 100%, 70%);
+}
+
+.green {
+    background-color: hsl(120, 100%, 70%);
+}
+
+.blue-green {
+    background-color: hsl(170, 100%, 70%);
+}
+
+.blue {
+    background-color: hsl(230, 100%, 70%);
+}
+
+.blue-purple {
+    background-color: hsl(250, 100%, 70%);
+}
+
+.purple {
+    background-color: hsl(270, 100%, 70%);
+}
+
+.none {
+    background-color: hsl(0, 45%, 98%);
+}
